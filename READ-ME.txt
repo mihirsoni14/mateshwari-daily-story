@@ -1,0 +1,103 @@
+MATESHWARI JEWELLERS — STORY TEMPLATE SYSTEM
+20 English templates | Instagram Stories | 1080 × 1920 | 9:16
+
+OPEN THE SYSTEM
+Open Mateshwari-Daily-Story-Editor.html in a current Chrome, Firefox, Edge,
+or Safari browser. If it opens as code, use Open With > your browser.
+The file contains the full editor, fonts and branding. It works offline.
+
+FOUR CATEGORIES
+DAILY RATES — 8 layouts
+Traditional Royal; Modern Minimalist; Luxury Black & Gold; Elegant Ivory & Gold;
+Heritage Indian; Contemporary Premium; Gold & Silver Split; Festive Jewellery.
+
+DAILY MARKETING — 4 templates
+Product Spotlight — add a photo, product name and description.
+New Arrivals — introduce a collection with your photo and announcement.
+Craftsmanship — highlight the detail and craft of your jewellery.
+Visit the Showroom — add your address, contact and invitation.
+
+FESTIVALS — 4 templates
+Diwali Wishes; Dhanteras Wishes; Akshaya Tritiya; Navratri Wishes.
+The English greetings and calls to action are editable. No festival date is
+assumed; select your Story date with the calendar. You can change the greeting
+to suit another occasion while retaining the chosen visual style.
+
+OFFERS — 4 templates
+Featured Offer; Making Charges; Limited Period; Festive Offer.
+Enter your approved benefit, eligible collection, expiry date and terms.
+No discounts, selling prices or offer terms are invented or prefilled.
+
+DAILY WORKFLOW
+1. Choose a category and select a thumbnail card.
+2. Select the Story date from the calendar.
+3. Edit the fields shown for that template. Daily Rates shows the three prices;
+   other categories show headlines, messages, calls to action, and offer fields.
+4. For photo templates, upload a real JPG, PNG or WebP image, up to 20 MB.
+5. Expand Contact & showroom details to add your enquiry number or address.
+6. Review the live preview, then click Download Story · PNG.
+7. Upload the downloaded 1080 × 1920 image to Instagram or WhatsApp Stories.
+
+PHOTO CONTROLS
+Fit entire image keeps all of your photo visible. Fill the photo frame crops
+the edges to fill the frame. The uploaded photo is shared by photo templates
+while the editor stays open. Remove photo restores the placeholder.
+Large photos are reduced to a maximum edge of 2048 pixels for efficient export.
+Your image is processed in the browser; it is not uploaded to a service.
+
+EDITING AND REUSE
+The Story date and rate entries remain intact when switching categories.
+Each marketing, festival and offer template keeps its own edited copy while
+the editor is open. Your enquiry number/address are shared across these templates.
+On returning to a template, your edits reappear. The last selected template is
+remembered in browser storage where available.
+
+Reopening the file starts a fresh editing session: date, prices, custom copy,
+contact details and photo are not restored. This avoids carrying stale rates or
+offers into a new Story. Keep the exported images you wish to reuse.
+
+Reset to placeholders in Daily Rates clears the date and all three rates.
+Reset this template in other categories restores that template's default copy
+and clears its offer fields, while keeping the shared date, photo and business
+details. It does not clear edits to other templates.
+
+PLACEHOLDERS AND DATES
+Empty rates display ₹ XX,XXX. Gold is per 10 grams; silver is per kilogram.
+Empty dates display [DD MMM YYYY]. Chosen dates use an English month abbreviation.
+Empty product, contact and offer fields show labelled placeholders on the Story.
+The offer expiry is a separate date picker from the Story date.
+Long text wraps or reduces in size to stay within the designed text areas.
+
+EXPORTS
+PNG: 1080 × 1920, ready to post. The filename includes the template and date.
+SVG: current template, editable text/decoration, embedded logo and uploaded photo.
+SVG font support varies between applications. The HTML editor preserves its
+embedded fonts when exporting PNG images.
+
+FILES IN THE KIT
+Mateshwari-Daily-Story-Editor.html — complete 20-template system.
+templates/rates/ — all eight rate templates in PNG and SVG formats.
+templates/daily/ — four marketing templates in PNG and SVG formats.
+templates/festivals/ — four festival templates in PNG and SVG formats.
+templates/offers/ — four offer templates in PNG and SVG formats.
+Mateshwari-All-20-Templates.png — comparison sheet for the entire library.
+Mateshwari-Marketing-Festival-Offer-Templates.png — the 12 new templates.
+Mateshwari-daily-Templates.png — daily marketing preview sheet.
+Mateshwari-festivals-Templates.png — festival preview sheet.
+Mateshwari-offers-Templates.png — offer preview sheet.
+
+OFFICIAL PALETTE
+Royal Maroon #4A0E18
+Metallic Gold #D4AF37
+Warm Ivory #FFF8E7
+Charcoal Black #252525
+Silver Grey #7A7F85
+
+Template graphics use the official palette. Uploaded photos retain their own
+colours; normal antialiasing blends the edges of type and illustrations.
+All templates retain MATESHWARI JEWELLERS branding and the gold monogram.
+
+ARTWORK
+The shared monogram is the asset from the earlier approved template, adapted
+from the supplied brand reference using built-in image generation at that stage.
+This expansion uses vector layouts and ornaments, not generated product photos.
