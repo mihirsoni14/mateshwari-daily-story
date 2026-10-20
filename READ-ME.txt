@@ -34,7 +34,8 @@ DAILY WORKFLOW
 3. Edit the fields shown for that template. Daily Rates shows the three prices;
    other categories show headlines, messages, calls to action, and offer fields.
 4. For photo templates, upload a real JPG, PNG or WebP image, up to 20 MB.
-5. Expand Contact & showroom details to add your enquiry number or address.
+5. Expand Saved business details, enter your contact, address and footer, then click
+   Save business details once to reuse them whenever you reopen this browser.
 6. Review the live preview, then click Download Story · PNG.
 7. Upload the downloaded 1080 × 1920 image to Instagram or WhatsApp Stories.
 
@@ -48,13 +49,22 @@ Your image is processed in the browser; it is not uploaded to a service.
 EDITING AND REUSE
 The Story date and rate entries remain intact when switching categories.
 Each marketing, festival and offer template keeps its own edited copy while
-the editor is open. Your enquiry number/address are shared across these templates.
-On returning to a template, your edits reappear. The last selected template is
-remembered in browser storage where available.
+the editor is open. Your saved phone, showroom address and brand footer are shared
+across templates. On returning to a template, your edits reappear. The last
+selected template is remembered in browser storage where available.
 
-Reopening the file starts a fresh editing session: date, prices, custom copy,
-contact details and photo are not restored. This avoids carrying stale rates or
-offers into a new Story. Keep the exported images you wish to reuse.
+SAVED BUSINESS DETAILS
+Enter your phone/WhatsApp number, showroom address and preferred brand footer,
+then click Save business details. These details remain available after closing
+and reopening the editor in the same browser. They are stored locally on that
+device and are not uploaded. Use Clear saved details to remove the saved profile.
+The phone and footer appear wherever the layout allows; the address appears on
+showroom templates.
+
+Reopening the file starts a fresh Story session: date, prices, custom campaign
+copy and photo are not restored. Saved business details remain available. This
+avoids carrying stale rates or offers into a new Story while keeping your regular
+showroom information ready.
 
 Reset to placeholders in Daily Rates clears the date and all three rates.
 Reset this template in other categories restores that template's default copy
